@@ -1,0 +1,26 @@
+body {
+    background-color: indigo;
+    color: white;
+}
+
+strong{
+    color: yellow;
+}
+
+main p{
+    color: black;
+}
+
+footer{
+    background-color: blue;
+    color: white;
+}
+
+footer a {
+    color: white;  /* Cor dos links */
+    text-decoration: none; /* Remove o sublinhado */
+  }
+
+  footer a:hover {
+    color: lightgray; /* Muda a cor ao passar o mouse */
+  }
